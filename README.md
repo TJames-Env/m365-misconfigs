@@ -4,7 +4,7 @@ A technical security article documenting the most common Microsoft 365 misconfig
 
 🌐 Live site: https://tjames-env.github.io/m365-misconfigs/
 
-📝 Medium: https://medium.com/@yourusername/top-5-m365-misconfigurations
+📝 Medium: https://medium.com/@timothy_jameseusebio
 
 
 Topics Covered
