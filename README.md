@@ -2,7 +2,7 @@
 
 A technical security article documenting the most common Microsoft 365 misconfigurations seen in enterprise environments — with real detection queries, remediation steps, and incident response guidance for each.
 
-🌐 Live site: https://tjames-env.github.io/m365-misconfigs/
+🌐 Live site: [View on GitHub Pages](https://tjames-env.github.io/m365-misconfigs/)
 
 📝 Medium: [Read on Medium](https://medium.com/@timothy_jameseusebio/top-5-m365-misconfigurations-ive-seen-in-enterprise-environments-19fdae532d19)
 
